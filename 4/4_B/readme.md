@@ -13,5 +13,5 @@ STEP 7 :Stop theprocess.<br>
 
 # DESCRIPTION:
 Infix expression:The expression of the form a op b. When an operator is in-between every pair ofoperands.<br>
-Postfix expression:The expression of the form a b op. When an operator is followed for everypairofoperands.<br>
+Postfix expression:The expression of the form a b op. When an operator is followed for everypairofoperands.<br><br><Br>
 ![alt text](https://github.com/DominicwalterLOF/DataStructure/blob/main/4/4_B/output_b.jpg?raw=true)
