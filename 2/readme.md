@@ -27,4 +27,4 @@ ii.	TheperviousTOPispoppedfromqueue.
 
 5.	Thequeuerepresentedbylinkedlististraversedtodisplayitscontent.
 
-![alt text](output.png "Title")
+![alt text](https://github.com/DominicwalterLOF/DataStructure/blob/main/2/output.png?raw=true)
