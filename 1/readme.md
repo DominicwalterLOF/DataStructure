@@ -5,7 +5,7 @@ Aim is to write a program in C to implement the stack ADT using array concept th
 A stack data structure can be implemented using one dimensional array. But stack implemented using array, can store only fixed number of data values. This implementation is very simple,just define a one dimensional array of specific size and insert or delete the values into that array by using LIFO principlewith the help of a variable'top'. Initially top isset to -1. When ever we want to inserta value into the stack,increment the top value by one and then insert. When ever we want to delete a value from the stack, then delete the top value and decrement the top value by one.
 
 # ALGORITHM:
-STEP 1: Define an array to store the element.
+STEP 1: Define an array to store the element.<br>
 STEP2: Get the users’ choice.
 STEP3: If the option is 1 perform creation operation and go to step 4.
 If the option is 2 perform insert i on operation and go to step 5. If the option is 3 perform deletion operation and goto step6.Iftheoptionis4performdisplayoperation andgotostep7.
