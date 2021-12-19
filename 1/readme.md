@@ -14,3 +14,5 @@ STEP 5: Get the element to be pushed. If top pointer exceeds stack capacity. Pri
 STEP 6: If the stack is empty, then print error message that stack is empty. If not fetch theelementfromthepositionwhichisdenotedby toppointer anddecrementthetoppointer byone
 STEP 7: If the top value is not less than the 0 the stack is display otherwise print the message“stackis empty”.
 STEP 8: Stop the execution.
+
+![alt text](https://github.com/DominicwalterLOF/DataStructure/blob/main/1/output.jpg?raw=true)
