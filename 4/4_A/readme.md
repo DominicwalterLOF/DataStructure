@@ -16,4 +16,4 @@ STEP 4 : If Exponentof P2isgreaterthan exponentofP1 thenkeepthe P3as P1<br>
 STEP 5 : IfExponentofP2isequaltotheexponentofP1thenaddthecoefficientofP1andcoefficientofP2 as coefficient of P3.<br>
 STEP 6 : Continuetheabovestepfrom3 to5 until endo thetwo polynomials.<br>
 STEP 7 : Ifanyof thepolynomial isended keepP3 asthe remainingpolynomial.8: Stop theexecution.<br>
-<br>
+<br>![alt text](https://github.com/DominicwalterLOF/DataStructure/blob/main/4/4_A/output_A.jpg?raw=true)
