@@ -26,3 +26,5 @@ i.	ThelinkofTOPisthecurrentTOP.
 ii.	TheperviousTOPispoppedfromqueue.
 
 5.	Thequeuerepresentedbylinkedlististraversedtodisplayitscontent.
+
+![alt text](output.png "Title")
